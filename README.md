@@ -8,11 +8,11 @@ In this fast and easy guide to the most popular Deep Learning framework in the w
 All examples are in python 2.7
 
 
-Part 1 - The basics.
+[Part 1 - The basics.](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d)
 
-Part 2 - Hybrid Learning
+[Part 2 - Hybrid Learning](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392)
 
-Part 3 - All the Models
+[Part 3 - All the Models](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930?source=placement_card_footer_grid---------0-44)
 
 
 Any improvements and suggestions are welcomed and appreciated.
