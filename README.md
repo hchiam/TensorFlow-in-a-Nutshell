@@ -12,7 +12,7 @@ All examples are in python 2.7
 
 [Part 2 - Hybrid Learning](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392)
 
-[Part 3 - All the Models](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930?source=placement_card_footer_grid---------0-44)
+[Part 3 - All the Models](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930)
 
 
 Any improvements and suggestions are welcomed and appreciated.
