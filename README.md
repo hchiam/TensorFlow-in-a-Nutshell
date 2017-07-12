@@ -1,3 +1,7 @@
+(This was forked from https://github.com/camrongodbout/TensorFlow-in-a-Nutshell)
+
+See the other things I'm learning: https://github.com/hchiam/learning
+
 TensorFlow in a Nutshell
 ==================================================
 
